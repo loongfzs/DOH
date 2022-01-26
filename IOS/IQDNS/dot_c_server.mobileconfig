@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerName</key>
+					<string>c.passcloud.xyz</string>
+				</dict>
+				<key>Name</key>
+				<string>c.passcloud.xyz DoT</string>
+				<key>PayloadDescription</key>
+				<string>Configures device to use AdGuard Home</string>
+				<key>PayloadDisplayName</key>
+				<string>c.passcloud.xyz DoT</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.257bc0ea-2d0d-4d31-8ea7-bf14172b0a2e</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>23304696-92ac-4544-93c4-e0b30fbd2cb4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Adds AdGuard Home to Big Sur and iOS 14 or newer systems</string>
+		<key>PayloadDisplayName</key>
+		<string>c.passcloud.xyz DoT</string>
+		<key>PayloadIdentifier</key>
+		<string>c41d89f0-bd6b-4379-b251-49ad76a0aa0b</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>56eee165-4505-47c1-ae37-825aec0467d3</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
